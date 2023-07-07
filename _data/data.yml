@@ -5,11 +5,11 @@
 header:
   # Profile information
   avatar: profile.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-  email: steve.doe@website.com
+  email: daivderik027@gmial.com
   phone: +55 84 9938-8475
   website: https://yourwebsite.com
   linkedin: David Santana
-  github: stevedoe
+  github: David-santana01
   gitlab:
   bitbucket:
   twitter: "@stevedoe"
@@ -42,28 +42,13 @@ summary: |
   Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget.
 
 education:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: tec. Informatica 
+    university: Instituto Federal do Rio Grande do Norte
+    time: 2023 - 2025
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+
+    Esse curso focou em focou e
+     
 
 experiences:
   - role: Lead Developer
